@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-TBD
+We get content now
