@@ -12,4 +12,8 @@ We get content now
 
 ## Content
 
+This is the content
+
+## Changes
+
 TBW
