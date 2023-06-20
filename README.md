@@ -17,3 +17,7 @@ This is the content
 ## Changes
 
 TBW
+
+### Copyright
+
+2014 Git.Training
