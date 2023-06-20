@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 We get content now
 
+## How to contribute
+
+Please fork this repository and then issue Pull Requests for review 
+
 ## Content
 
 This is the content
